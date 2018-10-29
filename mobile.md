@@ -2,9 +2,10 @@
 
 ## Description
 
-As **Ninety Nine** is a *fintech* company we want to create a mobile application that lists some of the most important companies of the world.
+As **Ninety Nine** is a *fintech* company we want to create a mobile application that lists some details about the most important companies of the world.
 
-The mobile application must shown a list of companies order by its share price. Every time the user taps on a company, the application must shown the company detail. As the company share price changes so fast the company detail screen must refresh to show the current share price every 20 seconds.
+The mobile application should show that list of companies ordered by *share* price (which value come within each company detail).
+Every time the user taps on a company name, the application should show a detailed company page/view. As each company *share* price changes almost in real time, the company detail views should be refreshed at least every 20 secs in order to show the current real *share* price.
 
 To support this challenge, we have created two endpoints to get the necessary information:
 - GET Companies: https://dev.ninetynine.com/testapi/1/companies
@@ -21,7 +22,7 @@ To support this challenge, we have created two endpoints to get the necessary in
 
 - Be written as production-ready code.
 - *"Be clean, my friend"*.
-- Be easy to grow and easy to maintain.
-- Have notes attached, explaining the solution and why certain things are included and others are left out.
+- Think on code scalability and maintainability.
+- Have detailed notes attached, explaining the solution, why certain things are included and why others are left out.
 
 Last but not least, have fun and take your time to do it.
