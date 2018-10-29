@@ -11,6 +11,8 @@ To support this challenge, we have created two endpoints to get the necessary in
 - GET Companies: https://dev.ninetynine.com/testapi/1/companies
 - GET Company by ID: https://dev.ninetynine.com/testapi/1/companies/{companyId}
 
+Each time you call on any of this endpoints the company share price changes.
+
 ## Requirements
 
 - Prepare your project for Android or iOS. It depends on the job position.
