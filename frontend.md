@@ -11,7 +11,7 @@ To simulate one of our third party data providers we have created two endpoints 
 
 Each time you call on any of this endpoints the company share price changes.
 
-The frontend system you are going to build should be a **S**ingle-**P**age **A**pplication. We need to see a list of companies. We can also access the detail of the company in a new route. 
+The frontend system you are going to build should be a "Single-page application". We need to see a list of companies. We can also access the detail of the company in a new route. 
 
 Your frontend system should expose in its own endpoints (using REST routes) the following info:
 
@@ -21,7 +21,7 @@ Your frontend system should expose in its own endpoints (using REST routes) the 
 
 ## Requirements
 
-- The project must be done using either **React**.
+- The project must be done using **React**.
 - For Javascript, you should use **ECMAScript 6**.
 - For styles, we like BEM and SASS, but you can use another alternative.
 - For dependency management, we like **Yarn**, but you can use another alternative.
