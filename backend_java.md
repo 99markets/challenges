@@ -11,7 +11,7 @@ To simulate one of our third party data providers we have created two endpoints 
 
 Each time you call on any of this endpoints the company share price changes.
 
-The backend system you are going to build should create create background jobs to get the information about the companies. As each company *share* price changes almost in real time, the company info should be refreshed at least every 20 secs in order to show the current real *share* price.
+The backend system you are going to build should create background jobs to get the information about the companies. As each company *share* price changes almost in real time, the company info should be refreshed at least every 20 secs in order to show the current real *share* price.
 
 Your backend system should expose in its own endpoints (using REST routes) the following info using the JSON:API standard:
 
