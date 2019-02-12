@@ -19,6 +19,7 @@ Each time you call on any of this endpoints the company share price changes.
 - If your application is for the *Android* position, the project must be done using **Kotlin**.
 - If your application is for the *iOS* position, the project must be done using **Swift**.
 - Feel free to use any library, tool or pattern you usually use.
+- At ninety nine we make use of **Rx**, it would be a plus if you show us how you use it.
 
 ## The code should:
 
