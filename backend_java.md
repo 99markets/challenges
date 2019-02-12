@@ -24,6 +24,7 @@ Your backend system should expose in its own endpoints (using REST routes) the f
 - The project must be done using either **Java** or **Kotlin**.
 - Use any framework you are confortable with, we usually use **Hibernate** and **Micronaut**.
 - Feel free to use any library, tool or pattern you usually use.
+- At ninety nine we make use of **Rx**, it would be a plus if you show us how you use it.
 
 ## The code should:
 
