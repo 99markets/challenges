@@ -8,8 +8,8 @@ The mobile application should show that list of companies ordered by *share* pri
 Every time the user taps on a company name, the application should show a detailed company page/view. As each company *share* price changes almost in real time, the company detail views should be refreshed at least every 20 secs in order to show the current real *share* price.
 
 To support this challenge, we have created two endpoints to get the necessary information:
-- GET Companies: https://dev.ninetynine.com/testapi/1/companies
-- GET Company by ID: https://dev.ninetynine.com/testapi/1/companies/{companyId}
+- GET Companies: https://mobile.ninetynine.com/testapi/1/companies
+- GET Company by ID: https://mobile.ninetynine.com/testapi/1/companies/{companyId}
 
 Each time you call on any of this endpoints the company share price changes.
 
