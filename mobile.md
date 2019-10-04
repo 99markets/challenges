@@ -2,30 +2,23 @@
 
 ## Description
 
-As **Ninety Nine** is a *fintech* company we want to create a mobile application that lists some details about the most important companies of the world.
+Congratulations! As the new member of the **Ninety Nine** iOS/Android team, you are in charge of implementing one of the new screens that will drive millions of users into our *fintech* app. This time our Product team wants our users to be able to visualize currency exchanges over time.
 
-The mobile application should show that list of companies ordered by *share* price (which value come within each company detail).
-Every time the user taps on a company name, the application should show a detailed company page/view. As each company *share* price changes almost in real time, the company detail views should be refreshed at least every 20 secs in order to show the current real *share* price.
+Your task is to build a simple flow of at least two screens where the user will select two currencies and two dates, and will be presented with a graph with how the exchange of the selected currencies changed over the selected time.
 
-To support this challenge, we have created two endpoints to get the necessary information:
-- GET Companies: https://mobile.ninetynine.com/testapi/1/companies
-- GET Company by ID: https://mobile.ninetynine.com/testapi/1/companies/{companyId}
-
-Each time you call on any of this endpoints the company share price changes.
+- To acquire the data, we encourage the usage of https://api.exchangeratesapi.io
+- To build the graph, we encourage the usage of the Charts library (https://github.com/danielgindi/Charts)
 
 ## Requirements
 
-- Prepare your project for Android or iOS. It depends on the job position.
-- If your application is for the *Android* position, the project must be done using **Kotlin**.
-- If your application is for the *iOS* position, the project must be done using **Swift**.
-- Feel free to use any library, tool or pattern you usually use.
-- At ninety nine we make use of **Rx**, it would be a plus if you show us how you use it.
+- The exercise must be done in **Swift** for *iOS* positions and **Kotlin** for *Android* positions
+- Feel free to use any library, tool or pattern you usually use
+- Extra kudos if you use **Rx** (we use it extensively)
 
 ## The code should:
 
-- Be written as production-ready code.
-- *"Be clean, my friend"*.
-- Think on code scalability and maintainability.
-- Have detailed notes attached, explaining the solution, why certain things are included and why others are left out.
+- Be written as production-ready code
+- *"Be clean, my friend"*
+- Have detailed notes attached, explaining the solution, why certain things are included and why others are left out
 
-Last but not least, have fun and take your time to do it.
+We hope you have fun and we appreciate your time completing this exercise.
