@@ -2,20 +2,22 @@
 
 ## Description
 
-Congratulations! As the new member of the **Ninety Nine** iOS/Android team, you are in charge of implementing one of the new screens that will drive millions of users into our *fintech* app. This time our Product team wants our users to be able to visualize currency exchanges over time.
+*Maximum amount of time allowed: 3-5 days*
 
-Your task is to build a simple flow of at least two screens where the user will select two currencies and two dates, and will be presented with a graph with how the exchange of the selected currencies changed over the selected time.
+Congratulations! As the new member of the **Ninety Nine** iOS/Android team, you are in charge of implementing one of the new features that will drive millions of users into our *fintech* app. Your task is to implement 2 screens to a) list the stocks the user has stored as favourites and b) see the detail of some of these stocks.
 
-- To acquire the data, we encourage the usage of https://api.exchangeratesapi.io
-- To build the graph, we encourage the usage of the Charts library (https://github.com/danielgindi/Charts)
+- You can retrieve the favourite list from:
+- You can retrieve the details from:
+- Implements a cache for offline cases *(extra points)*
+- Add one button to each cell to delete favorite. If you press that button your favorite will not be shown anymore in your list. *(extra points)*
 
-## Requirements
+## **Requirements**
 
-- The exercise must be done in **Swift** for *iOS* positions and **Kotlin** for *Android* positions
+- The exercise must be done in **Swift** for *iOS* positions and **Kotlin** for *Android* positions
 - Feel free to use any library, tool or pattern you usually use
-- Extra kudos if you use **Rx** (we use it extensively)
+- Extra kudos if you use **Rx** (We use it extensively)
 
-## The code should:
+## **The code should:**
 
 - Be written as production-ready code
 - *"Be clean, my friend"*
