@@ -8,9 +8,9 @@ This feature contains 2 screens to:
 
 a) List the stocks the user has stored as favourites.
 
-b) Shows the details for one stock.
+b) Show the details for one stock.
 
-To retrieve the information you can use these two endpoints created by the Backend team:
+To retrieve the information, you can use these two endpoints created by the Backend team:
 xx
 xx
 
