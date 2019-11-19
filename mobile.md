@@ -4,12 +4,22 @@
 
 *Maximum amount of time allowed: 3-5 days*
 
-Congratulations! As the new member of the **Ninety Nine** iOS/Android team, you are in charge of implementing one of the new features that will drive millions of users into our *fintech* app. Your task is to implement 2 screens to a) list the stocks the user has stored as favourites and b) see the detail of some of these stocks.
+Congratulations! As the new member of the **Ninety Nine** iOS/Android team, you are in charge of implementing one of the new features that will drive millions of users into our *fintech* app. 
 
-- You can retrieve the favourite list from:
-- You can retrieve the details from:
-- Implements a cache for offline cases *(extra points)*
-- Add one button to each cell to delete favorite. If you press that button your favorite will not be shown anymore in your list. *(extra points)*
+This feature contains 2 screens to:
+
+a) List the stocks the user has stored as favourites.
+b) Shows the details for one stock.
+
+To retrieve the information you can use these two endpoints created by the Backend team:
+xx
+xx
+
+Your job is to create an app from scratch that:
+
+- Shows the list of favourites, and when the user taps on one, shows its details.
+- Implement a cache for offline cases *(extra points)*
+- Add one button to each cell to delete favorite. If you press that button your favorite will not be shown anymore in your list (no need to persist the deletion). *(extra points)*
 
 ## **Requirements**
 
@@ -23,4 +33,4 @@ Congratulations! As the new member of the **Ninety Nine** iOS/Android team, yo
 - *"Be clean, my friend"*
 - Have detailed notes attached, explaining the solution, why certain things are included and why others are left out
 
-We hope you have fun and we appreciate your time completing this exercise.
+We hope you have fun! We appreciate your time completing this exercise.
