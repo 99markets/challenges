@@ -7,6 +7,7 @@ Congratulations! As the new member of the **Ninety Nine** iOS/Android team, yo
 This feature contains 2 screens to:
 
 a) List the stocks the user has stored as favourites.
+
 b) Shows the details for one stock.
 
 To retrieve the information you can use these two endpoints created by the Backend team:
