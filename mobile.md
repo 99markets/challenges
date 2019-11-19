@@ -2,8 +2,6 @@
 
 ## Description
 
-*Maximum amount of time allowed: 3-5 days*
-
 Congratulations! As the new member of the **Ninety Nine** iOS/Android team, you are in charge of implementing one of the new features that will drive millions of users into our *fintech* app. 
 
 This feature contains 2 screens to:
@@ -31,6 +29,6 @@ Your job is to create an app from scratch that:
 
 - Be written as production-ready code
 - *"Be clean, my friend"*
-- Have detailed notes attached, explaining the solution, why certain things are included and why others are left out
+- Feel free to add a Readme file explaining the solution, why certain things are included and why others are left out
 
 We hope you have fun! We appreciate your time completing this exercise.
