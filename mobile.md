@@ -8,11 +8,12 @@ This feature contains 2 screens to:
 
 a) List the stocks the user has stored as favourites.
 
-b) Show the details for one stock.
+b) Show the details for one favourite stock.
 
-To retrieve the information, you can use these two endpoints created by the Backend team:
-xx
-xx
+To retrieve the information, you can use these two REST endpoints created by the Backend team:
+
+- To retrieve the list of favourites: https://challenge.ninetynine.com/favorites
+- To get the details of one favourite stock: https://challenge.ninetynine.com/favorites/123
 
 Your job is to create an app from scratch that:
 
