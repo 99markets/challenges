@@ -6,7 +6,7 @@ Congratulations! As the new member of the **Ninety Nine** iOS/Android team, yo
 
 This feature contains 2 screens to:
 
-a) List the stocks the user has stored as favourites.
+a) List the stocks the user has stored as favorites.
 
 b) Show the details for one favourite stock.
 
@@ -17,7 +17,7 @@ To retrieve the information, you can use these two REST endpoints created by the
 
 Your job is to create an app from scratch that:
 
-- Shows the list of favourites, and when the user taps on one, shows its details.
+- Shows the list of favorites, and when the user taps on one, shows its details.
 - Implement a cache for offline cases *(extra points)*
 - Add one button to each cell to delete a favorite. If you press that button your favorite will not be shown anymore in your list (no need to persist the deletion). *(extra points)*
 
