@@ -29,7 +29,7 @@ Your job is to create an app from scratch that:
 
 ## **The code should:**
 
-- Be written as **production-ready** code, think about what are the minimum requirements to deploy a proyect to production
+- Be written as **production-ready** code, think about what minimum requirements you would establish to deploy a project to production
 - *"Be clean, my friend"*
 - Feel free to add a Readme file explaining the solution, why certain things are included and why others are left out
 
