@@ -25,7 +25,7 @@ Your job is to create an app from scratch that:
 
 - The exercise must be done in **Swift** for **iOS** positions and **Kotlin** for **Android** positions
 - Feel free to use any library, tool or pattern you usually use
-- Extra kudos if you use **Courutines**/**Combine**/**Rx** (We use it extensively)
+- Extra kudos if you use **Coroutines**/**Combine**/**Rx** (We use it extensively)
 
 ## **The code should:**
 
